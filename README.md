@@ -13,5 +13,6 @@
 
 ![alt text](https://github.com/Dxhxm88/Popcat-Click-Hack/blob/main/PasteURL.PNG)
 
+5. Change pop_count=800
 6. Install https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc?hl=en and turn ON
 7. Run the file and done
